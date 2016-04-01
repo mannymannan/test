@@ -11,7 +11,7 @@
         android:gravity="center"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="30sp"
-        android:id="@+id/tvSquad"
+        android:id="@+id/tvAbout"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="96dp" />
@@ -28,6 +28,6 @@
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
         android:layout_centerVertical="true"
-        android:layout_alignStart="@+id/tvSquad" />
+        android:layout_alignStart="@+id/tvAbout" />
 
 </RelativeLayout>

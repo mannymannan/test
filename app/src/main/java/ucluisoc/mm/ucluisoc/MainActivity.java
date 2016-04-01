@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         setupDrawerToggle();
 
 
-        //Add the Very First i.e Squad Fragment to the Container
+        //Add the Very First i.e About Fragment to the Container
         Fragment aboutFragment = new AboutFragment();
         FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
         fragmentTransaction.replace(R.id.containerView,aboutFragment,null);

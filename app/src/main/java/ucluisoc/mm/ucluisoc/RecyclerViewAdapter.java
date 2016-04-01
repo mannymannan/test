@@ -64,18 +64,33 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
             switch (getPosition()){
                 case 1:
-                    Fragment squadFragment = new AboutFragment();
-                    fragmentTransaction.replace(R.id.containerView,squadFragment);
+                    Fragment aboutFragment = new AboutFragment();
+                    fragmentTransaction.replace(R.id.containerView,aboutFragment);
                     fragmentTransaction.commit();
                     break;
                 case 2:
-                    Fragment fixtureFragment = new EventsFragment();
-                    fragmentTransaction.replace(R.id.containerView,fixtureFragment);
+                    Fragment eventsFragment = new EventsFragment();
+                    fragmentTransaction.replace(R.id.containerView,eventsFragment);
                     fragmentTransaction.commit();
                     break;
                 case 3:
-                    Fragment tableFragment = new PrayertimesFragment();
-                    fragmentTransaction.replace(R.id.containerView,tableFragment);
+                    Fragment prayertimesFragment = new PrayertimesFragment();
+                    fragmentTransaction.replace(R.id.containerView,prayertimesFragment);
+                    fragmentTransaction.commit();
+                    break;
+                case 4:
+                    Fragment directionsFragment = new DirectionsFragment();
+                    fragmentTransaction.replace(R.id.containerView,directionsFragment);
+                    fragmentTransaction.commit();
+                    break;
+                case 5:
+                    Fragment galleryFragment = new GalleryFragment();
+                    fragmentTransaction.replace(R.id.containerView,galleryFragment);
+                    fragmentTransaction.commit();
+                    break;
+                case 6:
+                    Fragment contactFragment = new ContactFragment();
+                    fragmentTransaction.replace(R.id.containerView,contactFragment);
                     fragmentTransaction.commit();
                     break;
             }
