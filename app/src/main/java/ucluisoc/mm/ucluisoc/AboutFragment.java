@@ -8,13 +8,13 @@ import android.view.ViewGroup;
 
 import com.mm.ucluisoc.R;
 
-public class TableFragment extends android.support.v4.app.Fragment {
+public class AboutFragment extends android.support.v4.app.Fragment {
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-
-        return inflater.inflate(R.layout.table_layout,null);
+        
+        return inflater.inflate(R.layout.about_layout,null);
 
 
     }

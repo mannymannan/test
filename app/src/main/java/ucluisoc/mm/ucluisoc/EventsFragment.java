@@ -9,12 +9,12 @@ import android.view.ViewGroup;
 
 import com.mm.ucluisoc.R;
 
-public class FixtureFragment extends Fragment {
+public class EventsFragment extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-        return inflater.inflate(R.layout.fixture_layout,null);
+        return inflater.inflate(R.layout.events_layout,null);
     }
 }

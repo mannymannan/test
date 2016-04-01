@@ -64,9 +64,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         //Add the Very First i.e Squad Fragment to the Container
-        Fragment squadFragment = new SquadFragment();
+        Fragment aboutFragment = new AboutFragment();
         FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
-        fragmentTransaction.replace(R.id.containerView,squadFragment,null);
+        fragmentTransaction.replace(R.id.containerView,aboutFragment,null);
         fragmentTransaction.commit();
 
     }

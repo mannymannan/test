@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Munawar\Documents\GitHub\testisoc\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
-        <dex dex="C:\Users\Munawar\Documents\GitHub\testisoc\app\build\intermediates\pre-dexed\debug\classes-c5f03aef52e4b535e996427d8ef57661e562207f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Munawar\Documents\GitHub\testisoc\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\Munawar\Documents\GitHub\testisoc\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3d9e33130ac4c1decdb35d8fb78c4877fcf291a0.jar" />
-    </item>
-    <item
         jar="C:\Users\Munawar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\Munawar\Documents\GitHub\testisoc\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-e87838bb30a1bb4c75ae695d796d8aa980f7f347.jar" />
+        <dex dex="C:\Users\Munawar\Documents\GitHub\test\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-e87838bb30a1bb4c75ae695d796d8aa980f7f347.jar" />
     </item>
     <item
-        jar="C:\Users\Munawar\Documents\GitHub\testisoc\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jar="C:\Users\Munawar\Documents\GitHub\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\Munawar\Documents\GitHub\testisoc\app\build\intermediates\pre-dexed\debug\classes-280d089889a62079fd9380a63e72947dbcf9ca30.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Munawar\Documents\GitHub\test\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-ae9866f552d2fbf19e4b55b9ba3f8ea95f0238f0.jar" />
     </item>
     <item
-        jar="C:\Users\Munawar\Documents\GitHub\testisoc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jar="C:\Users\Munawar\Documents\GitHub\test\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Munawar\Documents\GitHub\test\app\build\intermediates\pre-dexed\debug\classes-e91cc5daa2253a63d2d7937be49ac213daa18537.jar" />
+    </item>
+    <item
+        jar="C:\Users\Munawar\Documents\GitHub\test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Users\Munawar\Documents\GitHub\testisoc\app\build\intermediates\pre-dexed\debug\classes-80d37e2b9d269909947fbfe1ba53902b8e11b805.jar" />
+        <dex dex="C:\Users\Munawar\Documents\GitHub\test\app\build\intermediates\pre-dexed\debug\classes-1e3b677b472f69c97733b5de34a88ebd086b61ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Munawar\Documents\GitHub\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Munawar\Documents\GitHub\test\app\build\intermediates\pre-dexed\debug\classes-274a07d3c90a83238380397d3b5b1f0f17e995b8.jar" />
     </item>
 
 </items>

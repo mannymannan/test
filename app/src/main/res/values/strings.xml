@@ -3,22 +3,22 @@
     <string name="action_settings">Settings</string>
 
     <string-array name="navDrawerItems">
-        <item>Contact Us</item>
-        <item>Fixtures</item>
-        <item>Table</item>
-        <item>Transfer Zone</item>
+        <item>About Us</item>
+        <item>Events</item>
+        <item>Prayer Times</item>
+        <item>Directions</item>
         <item>Gallery</item>
-        <item>Connect</item>
+        <item>Contact</item>
     </string-array>
 
     <string-array name="navDrawerIcons">
 
-        <item>@drawable/squad</item>
-        <item>@drawable/fixtures</item>
-        <item>@drawable/table</item>
-        <item>@drawable/transfer</item>
+        <item>@drawable/about</item>
+        <item>@drawable/events</item>
+        <item>@drawable/prayertimes</item>
+        <item>@drawable/directions</item>
         <item>@drawable/gallery</item>
-        <item>@drawable/connect</item>
+        <item>@drawable/contact</item>
 
 
     </string-array>

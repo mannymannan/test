@@ -64,17 +64,17 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
             switch (getPosition()){
                 case 1:
-                    Fragment squadFragment = new SquadFragment();
+                    Fragment squadFragment = new AboutFragment();
                     fragmentTransaction.replace(R.id.containerView,squadFragment);
                     fragmentTransaction.commit();
                     break;
                 case 2:
-                    Fragment fixtureFragment = new FixtureFragment();
+                    Fragment fixtureFragment = new EventsFragment();
                     fragmentTransaction.replace(R.id.containerView,fixtureFragment);
                     fragmentTransaction.commit();
                     break;
                 case 3:
-                    Fragment tableFragment = new TableFragment();
+                    Fragment tableFragment = new PrayertimesFragment();
                     fragmentTransaction.replace(R.id.containerView,tableFragment);
                     fragmentTransaction.commit();
                     break;
