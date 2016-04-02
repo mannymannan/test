@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">UCLU Islamic Society</string>
     <string name="action_settings">Settings</string>
+    <string name="about">Hi, I am Ibrahim Qureshi - the current president of UCLU Islamic Society. This is one of the biggest societies in UCL. To find out more click the link below</string>
+    <string name="QCR">Click the link below to navigate to the prayer room, which is known officially as the Quiet Contemplation Room or QCR for short. Please behave in a sensible manner when making use of the room. </string>
+
 
     <string-array name="navDrawerItems">
-        <item>About Us</item>
+        <item>About</item>
         <item>Events</item>
         <item>Prayer Times</item>
         <item>Directions</item>

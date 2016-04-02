@@ -1,22 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+android:orientation="vertical" android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:padding="15dp">
 
 
-    <TextView
+<TextView
 
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Directions"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:gravity="center"
-        android:textColor="@android:color/holo_red_dark"
-        android:textSize="30sp"
-        android:id="@+id/tvDirections"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/QCR"
+    android:gravity="center"
+    android:textColor="@android:color/holo_red_dark"
+    android:textSize="30sp"
+    android:id="@+id/tvDirections"
 
-        />
+    android:layout_alignParentTop="true"
+    android:layout_alignParentStart="true"
+    android:layout_marginTop="85dp" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:textStyle="bold"
+    android:autoLink="web"
+    android:textColorLink="@android:color/holo_orange_dark"
+    android:textSize="17sp"
+    android:text="https://goo.gl/rlim2Y"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:id="@+id/textView"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginBottom="131dp" />
+
 
 
 </RelativeLayout>
